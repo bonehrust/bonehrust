@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on - I am not.
 - 🤔 I’m looking for help with - I am not.
 - 💬 Ask me about anything really, I think I would answer something at least
-- 📫 How to reach me: either Telegram (@ch3ck5) or Discord (bonehrust#2829), I'd suggest no trying reach me somewhere else, because I rarely check other platforms
+- 📫 How to reach me: either Telegram (@ch3ck5) or Discord (bonehrust#2829), I'd suggest not trying reach me somewhere else, because I rarely check other platforms
 - 😄 Pronouns: he
 - ⚡ Fun fact: my age is 14!
 
