@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I am bonehrust!</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonehrust)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonehrust&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on sakuga, a client for Minecraft, aimed towards anarchy servers 
